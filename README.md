@@ -13,7 +13,7 @@ A simple and stylish To-Do List web app built with **HTML, CSS, and JavaScript**
 
 ### 💻 Demo
 
-👉 [Live Demo](https://yourusername.github.io/todo-list) (replace this with your GitHub Pages or Netlify link after deployment)
+👉 [Live Demo](https://ritika-piplani.github.io/todo-list) 
 
 ---
 
@@ -40,7 +40,7 @@ A simple and stylish To-Do List web app built with **HTML, CSS, and JavaScript**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/ritika-piplani/todo-list.git
 =======
 # todo-list
 >>>>>>> 5b06a7dfdf657d20254e864ab3223585b4697cf2
