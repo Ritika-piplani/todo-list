@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📝 To-Do List App
 
 A simple and stylish To-Do List web app built with **HTML, CSS, and JavaScript**.
@@ -11,11 +11,6 @@ A simple and stylish To-Do List web app built with **HTML, CSS, and JavaScript**
 
 ---
 
-### 💻 Demo
-
-👉 [Live Demo](https://ritika-piplani.github.io/todo-list) 
-
----
 
 ### 📂 Features
 
